@@ -1,0 +1,6 @@
+orca_editique:
+    resource: "@OrcaEditiqueBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+
